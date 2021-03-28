@@ -1,0 +1,13 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "",
+    "FUNCTIONS_WORKER_RUNTIME": "node",
+    "ringfitadventureinstance_DOCUMENTDB": "",
+    "NAVER_OCR_URL" : "",
+    "NAVER_OCR_SECRET_KEY": "",
+    "TWT_CONSUMER_KEY" : "",
+    "TWT_CONSUMER_SECRET" : "",
+    "TWT_NAME": ""
+  }
+}
