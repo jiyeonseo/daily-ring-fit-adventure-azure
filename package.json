@@ -7,6 +7,8 @@
     "test": "echo \"No tests yet...\""
   },
   "dependencies": {
+    "@actions/core": "^1.2.6",
+    "@azure/cognitiveservices-computervision": "^8.0.0",
     "axios": "^0.21.1",
     "dayjs": "^1.10.4",
     "twitter": "^1.7.1"
